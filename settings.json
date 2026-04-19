@@ -1,0 +1,23 @@
+{
+    "vscode-neovim.neovimInitVimPaths.darwin": "/Users/z956/.config/nvim_cursor/init.lua",
+    "vscode-neovim.neovimExecutablePaths.darwin": "/opt/homebrew/bin/nvim",
+    "editor.lineNumbers": "relative",
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingComments": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.rulers": [
+        132
+    ],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#550000"
+    },
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "editor.indentSize": 4,
+    "rust-analyzer.check.command": "clippy",
+    "rust-analyzer.procMacro.enable": true,
+    "editor.formatOnSave": true,
+    "rust-analyzer.cargo.features": "all",
+}
