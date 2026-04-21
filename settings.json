@@ -1,6 +1,4 @@
 {
-    "vscode-neovim.neovimInitVimPaths.darwin": "/Users/z956/.config/nvim_cursor/init.lua",
-    "vscode-neovim.neovimExecutablePaths.darwin": "/opt/homebrew/bin/nvim",
     "editor.lineNumbers": "relative",
     "editor.autoClosingBrackets": "never",
     "editor.autoClosingComments": "never",
@@ -9,9 +7,6 @@
     "editor.rulers": [
         132
     ],
-    "workbench.colorCustomizations": {
-        "editorRuler.foreground": "#550000"
-    },
     "extensions.experimental.affinity": {
         "asvetliakov.vscode-neovim": 1
     },
@@ -20,4 +15,15 @@
     "rust-analyzer.procMacro.enable": true,
     "editor.formatOnSave": true,
     "rust-analyzer.cargo.features": "all",
+    "workbench.activityBar.orientation": "vertical",
+    "terminal.integrated.commandsToSkipShell": [
+        "workbench.action.focusActiveEditorGroup"
+    ],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#550000",
+        "editor.selectionBackground": "#4c6ef5AA",
+        "editor.selectionHighlightBackground": "#ffd43b55",
+        "editor.findMatchBackground": "#ffcc0055",
+        "editor.findMatchHighlightBackground": "#ffcc0033"
+    }
 }
